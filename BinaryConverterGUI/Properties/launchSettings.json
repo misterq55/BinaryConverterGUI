@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BinaryConverterGUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BinaryConverterGUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
